@@ -7,7 +7,7 @@ Front-end developer
 I've been coding for a few years now ,and my passion for coding came from playing video games at a young age. I am passionate about web development and always looking to push myself to reach to new heights in my coding career.
 
 * 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [Nathan Anthony](http://nathndev.vercel.app)
+* 🖥️  See my portfolio at [Nathan Anthony](https://nathandev.vercel.app)
 * ✉️  You can contact me at [nsanthony95@gmail.com](mailto:nsanthony95@gmail.com)
 * 🧠  I'm learning React
 
